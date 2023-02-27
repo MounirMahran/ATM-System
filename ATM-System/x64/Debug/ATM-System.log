@@ -1,0 +1,8 @@
+﻿  ATM-System.cpp
+C:\Users\DELL\source\repos\ATM-System\ATM-System\ATM-System.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\DELL\source\repos\ATM-System\ATM-System\ATM-System.cpp(67,26): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\ATM-System\ATM-System\ATM-System.cpp(75,20): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\ATM-System\ATM-System\ATM-System.cpp(81,20): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\ATM-System\ATM-System\ATM-System.cpp(86,20): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\ATM-System\ATM-System\ATM-System.cpp(219): warning C4715: 'TranslateAmountQuickWithdraw': not all control paths return a value
+  ATM-System.vcxproj -> C:\Users\DELL\source\repos\ATM-System\x64\Debug\ATM-System.exe
