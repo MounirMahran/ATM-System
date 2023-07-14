@@ -8,4 +8,3 @@ The system is implemented using functional programming and is divided into small
 **Normal Withdraw:** Allows users to withdraw a custom amount of money at their discretion.  
 **Deposit:** Allows users to deposit money into their account.  
 **Check Balance:** Allows users to check their account balance.  
-**Logout:** Allows users to log out of the system.  
