@@ -1,5 +1,11 @@
-# ATM-System
-In addition to the bank system in the last two repos, I created an ATM system to handle users transactions
-The system uses the same ReadInputs library and Clients.txt file, so it's somehow attached to the same database :-).
+# ATM-System  
+An ATM system that allows users to withdraw money, deposit money, check their account balance, and more. This system is designed to work with the same database used by the bank system in the last two repositories, using the same ReadInputs library and Clients.txt file.
 
-I used functional programming and divided the system into smaller functions, so I could focus on one thing at a time
+The system is implemented using functional programming and is divided into smaller functions to make it easier to maintain and update.
+
+## Features
+**Quick Withdraw:** Allows users to withdraw a fixed amount of money quickly.  
+**Normal Withdraw:** Allows users to withdraw a custom amount of money at their discretion.  
+**Deposit:** Allows users to deposit money into their account.  
+**Check Balance:** Allows users to check their account balance.  
+**Logout:** Allows users to log out of the system.  
